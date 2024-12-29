@@ -48,26 +48,5 @@ body {
     background-color: #fafafa;
     color: #212121;
     line-height: 1.5;
-    background-color: #68a4a3;
 }
 /* -------------------------- /RESET  -------------------------- */
-
-li{
-    font-size: 55px;
-}
-
-.box{
-    font-size: 55px;
-    width: 200px;
-    height: 70px;
-    background-color: #091c3f;
-    color: #ffffff;
-
-    border-radius: 8px;
-    transition: color 250ms linear, background-color 250ms linear;
-}
-
-.box:hover{
-    background-color: #ffffff;
-    color: #091c3f;
-}
